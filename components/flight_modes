@@ -1,0 +1,2 @@
+param set-default COM_FLTMODE1 2 # Position
+param set-default COM_FLTMODE2 4 # Hold
